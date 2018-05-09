@@ -1,0 +1,22 @@
+E:\Here !!\TDI 202\Mes Project\AxeDore\Axedore\Axedore\bin\Debug\Axedore.exe
+E:\Here !!\TDI 202\Mes Project\AxeDore\Axedore\Axedore\bin\Debug\Axedore.pdb
+E:\Here !!\TDI 202\Mes Project\AxeDore\Axedore\Axedore\obj\Debug\Axedore.Form1.resources
+E:\Here !!\TDI 202\Mes Project\AxeDore\Axedore\Axedore\obj\Debug\Axedore.Properties.Resources.resources
+E:\Here !!\TDI 202\Mes Project\AxeDore\Axedore\Axedore\obj\Debug\Axedore.csproj.GenerateResource.Cache
+E:\Here !!\TDI 202\Mes Project\AxeDore\Axedore\Axedore\obj\Debug\Axedore.csproj.CoreCompileInputs.cache
+E:\Here !!\TDI 202\Mes Project\AxeDore\Axedore\Axedore\obj\Debug\Axedore.exe
+E:\Here !!\TDI 202\Mes Project\AxeDore\Axedore\Axedore\obj\Debug\Axedore.pdb
+E:\Here !!\TDI 202\Mes Project\AxeDore\Axedore\Axedore\obj\Debug\Axedore.csprojResolveAssemblyReference.cache
+E:\Here !!\TDI 202\Mes Project\AxeDore\Axedore\Axedore\bin\Debug\EntityFramework.dll
+E:\Here !!\TDI 202\Mes Project\AxeDore\Axedore\Axedore\bin\Debug\EntityFramework.SqlServer.dll
+E:\Here !!\TDI 202\Mes Project\AxeDore\Axedore\Axedore\bin\Debug\EntityFramework.xml
+E:\Here !!\TDI 202\Mes Project\AxeDore\Axedore\Axedore\bin\Debug\EntityFramework.SqlServer.xml
+E:\Here !!\TDI 202\Mes Project\AxeDore\Axedore\Axedore\bin\Debug\fr\EntityFramework.resources.dll
+E:\Here !!\TDI 202\Mes Project\Gestion Stagier\Axedore\Axedore\obj\Debug\Axedore.csprojResolveAssemblyReference.cache
+E:\Here !!\TDI 202\Mes Project\Gestion Stagier\Axedore\Axedore\obj\Debug\Axedore.Form1.resources
+E:\Here !!\TDI 202\Mes Project\Gestion Stagier\Axedore\Axedore\obj\Debug\Axedore.insription.resources
+E:\Here !!\TDI 202\Mes Project\Gestion Stagier\Axedore\Axedore\obj\Debug\Axedore.Properties.Resources.resources
+E:\Here !!\TDI 202\Mes Project\Gestion Stagier\Axedore\Axedore\obj\Debug\Axedore.csproj.GenerateResource.Cache
+E:\Here !!\TDI 202\Mes Project\Gestion Stagier\Axedore\Axedore\obj\Debug\Axedore.csproj.CoreCompileInputs.cache
+E:\Here !!\TDI 202\Mes Project\Gestion Stagier\Axedore\Axedore\obj\Debug\Axedore.exe
+E:\Here !!\TDI 202\Mes Project\Gestion Stagier\Axedore\Axedore\obj\Debug\Axedore.pdb
